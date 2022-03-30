@@ -1,14 +1,5 @@
 # Interactive Resume
 
-[LIVE][live]
-## Background
-This project is an interactive resume that was inspired by Robby Leonardi's [Interactive Resume][interactive], as well as J.K. Rowling's Wizarding World of Harry Potter. The interactive resume is meant to display a certain passion and skill for front end development. A complete 180 from your traditional resume, my interactive resume is a creative way to present my work experience, projects and skills while also capturing my childhood love for the magical world of Harry Potter.
-
-## Screenshots
-
-![title][title]
-
-![animation][animation]
 
 ## Implementation
 My interactive resume utilized the following technologies:
